@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "714946331695",
+    "project_id": "vhembe-gov",
+    "storage_bucket": "vhembe-gov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714946331695:android:ca2a8d58e4db7d1d4e32da",
+        "android_client_info": {
+          "package_name": "com.example.vhembe_gov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714946331695-5tcsrp2rmkveqblsfs2vesngtfanakva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCowu1dUAG1RQT9etTsLrgahtBe3m-m5F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714946331695-5tcsrp2rmkveqblsfs2vesngtfanakva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714946331695-kpvqk61ulfrv799gqact9gjn9o34lk7v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vhembeGov"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
